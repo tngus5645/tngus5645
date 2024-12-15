@@ -1,0 +1,1738 @@
+.frame {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.frame .div {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 1920px;
+  height: 13308px;
+  position: relative;
+}
+
+.frame .overlap-group {
+  position: absolute;
+  width: 1920px;
+  height: 12501px;
+  top: 0;
+  left: 0;
+}
+
+.frame .rectangle {
+  position: absolute;
+  width: 1920px;
+  height: 1966px;
+  top: 5842px;
+  left: 0;
+}
+
+.frame .img {
+  position: absolute;
+  width: 1920px;
+  height: 1161px;
+  top: 9726px;
+  left: 0;
+}
+
+.frame .rectangle-2 {
+  position: absolute;
+  width: 1920px;
+  height: 727px;
+  top: 10887px;
+  left: 0;
+}
+
+.frame .group {
+  position: absolute;
+  width: 1920px;
+  height: 5842px;
+  top: 0;
+  left: 0;
+}
+
+.frame .rectangle-3 {
+  position: absolute;
+  width: 1920px;
+  height: 1255px;
+  top: 7808px;
+  left: 0;
+}
+
+.frame .rectangle-4 {
+  position: absolute;
+  width: 1920px;
+  height: 409px;
+  top: 11614px;
+  left: 0;
+}
+
+.frame .rectangle-5 {
+  position: absolute;
+  width: 1920px;
+  height: 907px;
+  top: 3801px;
+  left: 0;
+}
+
+.frame .vector {
+  position: absolute;
+  width: 1920px;
+  height: 1134px;
+  top: 4708px;
+  left: 0;
+}
+
+.frame .rectangle-6 {
+  left: 164px;
+  position: absolute;
+  width: 339px;
+  height: 362px;
+  top: 11120px;
+}
+
+.frame .drake-take-care {
+  position: absolute;
+  width: 278px;
+  top: 11383px;
+  left: 195px;
+  font-family: "Pretendard-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .rectangle-7 {
+  left: 609px;
+  position: absolute;
+  width: 339px;
+  height: 362px;
+  top: 11120px;
+}
+
+.frame .billie-eilish-when {
+  position: absolute;
+  top: 11383px;
+  left: 636px;
+  font-family: "Pretendard-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .rectangle-8 {
+  position: absolute;
+  width: 339px;
+  height: 362px;
+  top: 11120px;
+  left: 1036px;
+}
+
+.frame .BTS-map-of-the-soul {
+  position: absolute;
+  top: 11383px;
+  left: 1062px;
+  font-family: "Pretendard-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .rectangle-9 {
+  position: absolute;
+  width: 339px;
+  height: 362px;
+  top: 11120px;
+  left: 1472px;
+}
+
+.frame .olivia-rodrigo-SOUR {
+  width: 158px;
+  top: 11383px;
+  left: 1569px;
+  color: #ffffff;
+  position: absolute;
+  font-family: "Pretendard-Bold", Helvetica;
+  font-weight: 700;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .streaming {
+  position: absolute;
+  width: 558px;
+  height: 111px;
+  top: 9863px;
+  left: 163px;
+}
+
+.frame .element {
+  position: absolute;
+  width: 419px;
+  height: 90px;
+  top: 10941px;
+  left: 164px;
+}
+
+.frame .player {
+  position: absolute;
+  width: 340px;
+  height: 230px;
+  top: 7983px;
+  left: 167px;
+}
+
+.frame .element-2 {
+  position: absolute;
+  width: 256px;
+  height: 336px;
+  top: 8444px;
+  left: 1306px;
+}
+
+.frame .element-3 {
+  position: absolute;
+  width: 301px;
+  height: 72px;
+  top: 7074px;
+  left: 183px;
+}
+
+.frame .element-4 {
+  position: absolute;
+  width: 256px;
+  height: 86px;
+  top: 9106px;
+  left: 170px;
+}
+
+.frame .element-5 {
+  position: absolute;
+  width: 299px;
+  height: 72px;
+  top: 7074px;
+  left: 1065px;
+}
+
+.frame .element-6 {
+  position: absolute;
+  width: 256px;
+  height: 86px;
+  top: 9106px;
+  left: 1067px;
+}
+
+.frame .element-7 {
+  position: absolute;
+  width: 324px;
+  height: 310px;
+  top: 6045px;
+  left: 163px;
+}
+
+.frame .element-8 {
+  position: absolute;
+  width: 324px;
+  height: 310px;
+  top: 6065px;
+  left: 1324px;
+}
+
+.frame .text-wrapper {
+  position: absolute;
+  width: 303px;
+  top: 2422px;
+  left: 1487px;
+  font-family: "handwriting-draft_free-version-Regular", Helvetica;
+  font-weight: 400;
+  color: #280c0c;
+  font-size: 98px;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .rectangle-10 {
+  position: absolute;
+  width: 339px;
+  height: 362px;
+  top: 2589px;
+  left: 1469px;
+}
+
+.frame .michael-jackson {
+  top: 2846px;
+  left: 1541px;
+  color: #280c0c;
+  position: absolute;
+  font-family: "Pretendard-Bold", Helvetica;
+  font-weight: 700;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .rectangle-11 {
+  position: absolute;
+  width: 339px;
+  height: 362px;
+  top: 2972px;
+  left: 1469px;
+}
+
+.frame .madonna-like-a {
+  position: absolute;
+  top: 3234px;
+  left: 1526px;
+  font-family: "Pretendard-Bold", Helvetica;
+  font-weight: 700;
+  color: #280c0c;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .text-wrapper-2 {
+  width: 292px;
+  left: 185px;
+  position: absolute;
+  top: 2422px;
+  font-family: "handwriting-draft_free-version-Regular", Helvetica;
+  font-weight: 400;
+  color: #280c0c;
+  font-size: 98px;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .rectangle-12 {
+  position: absolute;
+  width: 339px;
+  height: 362px;
+  top: 2589px;
+  left: 161px;
+}
+
+.frame .elvis-presley-elvis {
+  top: 2846px;
+  left: 220px;
+  color: #280c0c;
+  position: absolute;
+  font-family: "Pretendard-Bold", Helvetica;
+  font-weight: 700;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .rectangle-13 {
+  position: absolute;
+  width: 339px;
+  height: 362px;
+  top: 2972px;
+  left: 161px;
+}
+
+.frame .miles-davis-kind-of {
+  top: 3234px;
+  left: 223px;
+  color: #280c0c;
+  position: absolute;
+  font-family: "Pretendard-Bold", Helvetica;
+  font-weight: 700;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .text-wrapper-3 {
+  width: 280px;
+  left: 1063px;
+  position: absolute;
+  top: 2422px;
+  font-family: "handwriting-draft_free-version-Regular", Helvetica;
+  font-weight: 400;
+  color: #280c0c;
+  font-size: 98px;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .rectangle-14 {
+  position: absolute;
+  width: 339px;
+  height: 362px;
+  top: 2589px;
+  left: 1033px;
+}
+
+.frame .pink-floyd-the-dark {
+  position: absolute;
+  top: 2846px;
+  left: 1096px;
+  font-family: "Pretendard-Bold", Helvetica;
+  font-weight: 700;
+  color: #280c0c;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .rectangle-15 {
+  position: absolute;
+  width: 339px;
+  height: 362px;
+  top: 2972px;
+  left: 1033px;
+}
+
+.frame .bee-gees-saturday {
+  position: absolute;
+  top: 3234px;
+  left: 1046px;
+  font-family: "Pretendard-Bold", Helvetica;
+  font-weight: 700;
+  color: #280c0c;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .rectangle-16 {
+  position: absolute;
+  width: 339px;
+  height: 362px;
+  top: 3365px;
+  left: 1033px;
+}
+
+.frame .the-clash-london {
+  position: absolute;
+  top: 3638px;
+  left: 1079px;
+  font-family: "Pretendard-Bold", Helvetica;
+  font-weight: 700;
+  color: #280c0c;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .text-wrapper-4 {
+  width: 301px;
+  left: 616px;
+  position: absolute;
+  top: 2422px;
+  font-family: "handwriting-draft_free-version-Regular", Helvetica;
+  font-weight: 400;
+  color: #280c0c;
+  font-size: 98px;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .rectangle-17 {
+  position: absolute;
+  width: 339px;
+  height: 362px;
+  top: 2589px;
+  left: 597px;
+}
+
+.frame .the-beatles-sgt {
+  position: absolute;
+  width: 278px;
+  top: 2846px;
+  left: 628px;
+  font-family: "Pretendard-Bold", Helvetica;
+  font-weight: 700;
+  color: #280c0c;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .rectangle-18 {
+  position: absolute;
+  width: 339px;
+  height: 362px;
+  top: 2972px;
+  left: 597px;
+  background: linear-gradient(
+    180deg,
+    rgb(232.54, 231.63, 230.41) 0%,
+    rgb(147.66, 147.66, 147.66) 100%
+  );
+}
+
+.frame .bob-dylan-highway {
+  top: 3234px;
+  left: 606px;
+  color: #280c0c;
+  position: absolute;
+  font-family: "Pretendard-Bold", Helvetica;
+  font-weight: 700;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .rectangle-19 {
+  position: absolute;
+  width: 339px;
+  height: 362px;
+  top: 3365px;
+  left: 597px;
+}
+
+.frame .fleetwood-mac {
+  position: absolute;
+  top: 3638px;
+  left: 685px;
+  font-family: "Pretendard-Bold", Helvetica;
+  font-weight: 700;
+  color: #280c0c;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .vector-2 {
+  position: absolute;
+  width: 85px;
+  height: 276px;
+  top: 36px;
+  left: 910px;
+}
+
+.frame .vector-3 {
+  position: absolute;
+  width: 85px;
+  height: 326px;
+  top: 778px;
+  left: 910px;
+}
+
+.frame .vector-4 {
+  position: absolute;
+  width: 219px;
+  height: 300px;
+  top: 1099px;
+  left: 843px;
+}
+
+.frame .img-2 {
+  position: absolute;
+  width: 447px;
+  height: 66px;
+  top: 2177px;
+  left: 1358px;
+}
+
+.frame .img-3 {
+  position: absolute;
+  width: 577px;
+  height: 94px;
+  top: 4281px;
+  left: 1232px;
+}
+
+.frame .CD-nirvana-nevermind {
+  position: absolute;
+  width: 671px;
+  height: 96px;
+  top: 5633px;
+  left: 161px;
+}
+
+.frame .img-4 {
+  position: absolute;
+  width: 571px;
+  height: 56px;
+  top: 4462px;
+  left: 1232px;
+}
+
+.frame .img-5 {
+  position: absolute;
+  width: 447px;
+  height: 40px;
+  top: 2278px;
+  left: 1358px;
+}
+
+.frame .vector-5 {
+  position: absolute;
+  width: 111px;
+  height: 96px;
+  top: 3947px;
+  left: 164px;
+}
+
+.frame .vector-6 {
+  position: absolute;
+  width: 87px;
+  height: 72px;
+  top: 3971px;
+  left: 278px;
+}
+
+.frame .vector-7 {
+  position: absolute;
+  width: 88px;
+  height: 72px;
+  top: 3971px;
+  left: 368px;
+}
+
+.frame .vector-8 {
+  position: absolute;
+  width: 88px;
+  height: 72px;
+  top: 3971px;
+  left: 460px;
+}
+
+.frame .vector-9 {
+  position: absolute;
+  width: 84px;
+  height: 72px;
+  top: 3971px;
+  left: 553px;
+}
+
+.frame .vector-10 {
+  position: absolute;
+  width: 89px;
+  height: 96px;
+  top: 3947px;
+  left: 633px;
+}
+
+.frame .vector-11 {
+  position: absolute;
+  width: 89px;
+  height: 96px;
+  top: 3947px;
+  left: 725px;
+}
+
+.frame .vector-12 {
+  position: absolute;
+  width: 84px;
+  height: 72px;
+  top: 3971px;
+  left: 817px;
+}
+
+.frame .vector-13 {
+  position: absolute;
+  width: 127px;
+  height: 96px;
+  top: 4087px;
+  left: 164px;
+}
+
+.frame .vector-14 {
+  position: absolute;
+  width: 87px;
+  height: 72px;
+  top: 4111px;
+  left: 293px;
+}
+
+.frame .vector-15 {
+  position: absolute;
+  width: 87px;
+  height: 96px;
+  top: 4111px;
+  left: 383px;
+}
+
+.frame .vector-16 {
+  position: absolute;
+  width: 84px;
+  height: 72px;
+  top: 4111px;
+  left: 472px;
+}
+
+.frame .vector-17 {
+  position: absolute;
+  width: 41px;
+  height: 72px;
+  top: 4111px;
+  left: 843px;
+}
+
+.frame .vector-18 {
+  position: absolute;
+  width: 89px;
+  height: 72px;
+  top: 4111px;
+  left: 882px;
+}
+
+.frame .vector-19 {
+  position: absolute;
+  width: 91px;
+  height: 72px;
+  top: 4111px;
+  left: 968px;
+}
+
+.frame .vector-20 {
+  position: absolute;
+  width: 85px;
+  height: 72px;
+  top: 4111px;
+  left: 1047px;
+}
+
+.frame .vector-21 {
+  position: absolute;
+  width: 58px;
+  height: 2px;
+  top: 4227px;
+  left: 843px;
+}
+
+.frame .vector-22 {
+  position: absolute;
+  width: 41px;
+  height: 72px;
+  top: 4271px;
+  left: 841px;
+}
+
+.frame .vector-23 {
+  position: absolute;
+  width: 89px;
+  height: 72px;
+  top: 4271px;
+  left: 880px;
+}
+
+.frame .vector-24 {
+  position: absolute;
+  width: 89px;
+  height: 72px;
+  top: 4271px;
+  left: 972px;
+}
+
+.frame .vector-25 {
+  position: absolute;
+  width: 85px;
+  height: 72px;
+  top: 4271px;
+  left: 1065px;
+}
+
+.frame .rectangle-20 {
+  position: absolute;
+  width: 367px;
+  height: 390px;
+  top: 5348px;
+  left: 1459px;
+}
+
+.frame .michael-jackson-2 {
+  top: 5614px;
+  left: 1541px;
+  color: #000000;
+  position: absolute;
+  font-family: "Pretendard-Bold", Helvetica;
+  font-weight: 700;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .rectangle-21 {
+  position: absolute;
+  width: 367px;
+  height: 390px;
+  top: 5348px;
+  left: 1056px;
+}
+
+.frame .madonna-like-a-2 {
+  position: absolute;
+  top: 5619px;
+  left: 1123px;
+  font-family: "Pretendard-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .element-9 {
+  position: absolute;
+  width: 324px;
+  height: 80px;
+  top: 4784px;
+  left: 167px;
+}
+
+.frame .element-10 {
+  position: absolute;
+  width: 344px;
+  height: 80px;
+  top: 5205px;
+  left: 1462px;
+}
+
+.frame .rectangle-22 {
+  top: 7205px;
+  left: 167px;
+  position: absolute;
+  width: 339px;
+  height: 362px;
+}
+
+.frame .prince-purple-rain {
+  position: absolute;
+  top: 7482px;
+  left: 229px;
+  font-family: "Pretendard-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .rectangle-23 {
+  position: absolute;
+  width: 339px;
+  height: 362px;
+  top: 7206px;
+  left: 574px;
+}
+
+.frame .the-joshua-tree {
+  position: absolute;
+  top: 7483px;
+  left: 610px;
+  font-family: "Pretendard-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .rectangle-24 {
+  position: absolute;
+  width: 339px;
+  height: 362px;
+  top: 7205px;
+  left: 1062px;
+}
+
+.frame .nirvana-nevermind {
+  position: absolute;
+  top: 7482px;
+  left: 1131px;
+  font-family: "Pretendard-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .rectangle-25 {
+  position: absolute;
+  width: 339px;
+  height: 362px;
+  top: 7205px;
+  left: 1469px;
+}
+
+.frame .tupac-shakur-all {
+  position: absolute;
+  top: 7482px;
+  left: 1517px;
+  font-family: "Pretendard-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .rectangle-26 {
+  top: 9243px;
+  left: 164px;
+  position: absolute;
+  width: 339px;
+  height: 362px;
+}
+
+.frame .radiohead-OK {
+  position: absolute;
+  top: 9499px;
+  left: 217px;
+  font-family: "Pretendard-Bold", Helvetica;
+  font-weight: 700;
+  color: #798ba8;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .rectangle-27 {
+  position: absolute;
+  width: 339px;
+  height: 362px;
+  top: 9243px;
+  left: 575px;
+}
+
+.frame .britney-spears-baby {
+  top: 9499px;
+  left: 645px;
+  color: #798ba8;
+  position: absolute;
+  font-family: "Pretendard-Bold", Helvetica;
+  font-weight: 700;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .rectangle-28 {
+  position: absolute;
+  width: 339px;
+  height: 362px;
+  top: 9243px;
+  left: 1060px;
+}
+
+.frame .daft-punk-discovery {
+  position: absolute;
+  top: 9499px;
+  left: 1132px;
+  font-family: "Pretendard-Bold", Helvetica;
+  font-weight: 700;
+  color: #798ba8;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .rectangle-29 {
+  position: absolute;
+  width: 339px;
+  height: 362px;
+  top: 9243px;
+  left: 1471px;
+}
+
+.frame .eminem-the-eminem {
+  position: absolute;
+  width: 294px;
+  top: 9500px;
+  left: 1495px;
+  font-family: "Pretendard-Bold", Helvetica;
+  font-weight: 700;
+  color: #798ba8;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .rectangle-30 {
+  position: absolute;
+  width: 821px;
+  height: 102px;
+  top: 6597px;
+  left: 893px;
+}
+
+.frame .rectangle-31 {
+  position: absolute;
+  width: 518px;
+  height: 57px;
+  top: 6710px;
+  left: 893px;
+}
+
+.frame .CD {
+  position: absolute;
+  width: 774px;
+  height: 56px;
+  top: 6617px;
+  left: 913px;
+}
+
+.frame .CD-2 {
+  position: absolute;
+  width: 475px;
+  height: 18px;
+  top: 6733px;
+  left: 912px;
+}
+
+.frame .napster-apple {
+  position: absolute;
+  width: 826px;
+  height: 96px;
+  top: 8884px;
+  left: 164px;
+}
+
+.frame .spotify-apple-music {
+  position: absolute;
+  width: 989px;
+  height: 56px;
+  top: 10010px;
+  left: 165px;
+}
+
+.frame .an-analysis-of-the {
+  position: absolute;
+  width: 1639px;
+  height: 208px;
+  top: 11725px;
+  left: 167px;
+}
+
+.frame .vector-26 {
+  position: absolute;
+  width: 35px;
+  height: 53px;
+  top: 12103px;
+  left: 1295px;
+}
+
+.frame .vector-27 {
+  position: absolute;
+  width: 37px;
+  height: 53px;
+  top: 12102px;
+  left: 1252px;
+}
+
+.frame .vector-28 {
+  position: absolute;
+  width: 64px;
+  height: 110px;
+  top: 12074px;
+  left: 166px;
+}
+
+.frame .vector-29 {
+  position: absolute;
+  width: 172px;
+  height: 42px;
+  top: 12108px;
+  left: 548px;
+}
+
+.frame .rectangle-32 {
+  position: absolute;
+  width: 411px;
+  height: 59px;
+  top: 12099px;
+  left: 779px;
+}
+
+.frame .vector-30 {
+  position: absolute;
+  width: 35px;
+  height: 53px;
+  top: 12262px;
+  left: 1464px;
+}
+
+.frame .vector-31 {
+  position: absolute;
+  width: 38px;
+  height: 52px;
+  top: 12262px;
+  left: 1421px;
+}
+
+.frame .vector-32 {
+  position: absolute;
+  width: 64px;
+  height: 110px;
+  top: 12233px;
+  left: 166px;
+}
+
+.frame .vector-33 {
+  position: absolute;
+  width: 188px;
+  height: 66px;
+  top: 12255px;
+  left: 540px;
+}
+
+.frame .rectangle-33 {
+  position: absolute;
+  width: 538px;
+  height: 60px;
+  top: 12258px;
+  left: 779px;
+}
+
+.frame .rectangle-34 {
+  position: absolute;
+  width: 56px;
+  height: 60px;
+  top: 12258px;
+  left: 1317px;
+  background-color: #6496ff;
+}
+
+.frame .vector-34 {
+  position: absolute;
+  width: 35px;
+  height: 54px;
+  top: 12420px;
+  left: 1776px;
+}
+
+.frame .vector-35 {
+  position: absolute;
+  width: 33px;
+  height: 51px;
+  top: 12421px;
+  left: 1736px;
+}
+
+.frame .vector-36 {
+  position: absolute;
+  width: 65px;
+  height: 110px;
+  top: 12392px;
+  left: 165px;
+}
+
+.frame .group-2 {
+  position: absolute;
+  width: 1641px;
+  height: 12177px;
+  top: 312px;
+  left: 155px;
+}
+
+.frame .vector-37 {
+  position: absolute;
+  width: 154px;
+  height: 42px;
+  top: 12426px;
+  left: 557px;
+}
+
+.frame .rectangle-35 {
+  position: absolute;
+  width: 368px;
+  height: 58px;
+  top: 12418px;
+  left: 1338px;
+}
+
+.frame .rectangle-36 {
+  position: absolute;
+  width: 559px;
+  height: 58px;
+  top: 12418px;
+  left: 779px;
+}
+
+.frame .element-11 {
+  position: absolute;
+  width: 419px;
+  height: 90px;
+  top: 10180px;
+  left: 1371px;
+}
+
+.frame .image {
+  width: 553px;
+  height: 531px;
+  top: 10257px;
+  left: 779px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.frame .image-2 {
+  width: 553px;
+  height: 531px;
+  top: 10257px;
+  left: 431px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.frame .image-3 {
+  width: 553px;
+  height: 531px;
+  top: 10257px;
+  left: 1328px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.frame .image-4 {
+  width: 39px;
+  height: 531px;
+  top: 10257px;
+  left: 1881px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.frame .image-5 {
+  width: 514px;
+  height: 729px;
+  top: 10158px;
+  left: 0;
+  position: absolute;
+  object-fit: cover;
+}
+
+.frame .rectangle-37 {
+  position: absolute;
+  width: 367px;
+  height: 390px;
+  top: 4915px;
+  left: 150px;
+}
+
+.frame .p {
+  position: absolute;
+  top: 5181px;
+  left: 223px;
+  font-family: "Pretendard-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .tze {
+  position: absolute;
+  width: 269px;
+  height: 228px;
+  top: 4937px;
+  left: 195px;
+}
+
+.frame .rectangle-38 {
+  position: absolute;
+  width: 367px;
+  height: 390px;
+  top: 4915px;
+  left: 541px;
+}
+
+.frame .x-jf-ls-u {
+  position: absolute;
+  width: 287px;
+  height: 227px;
+  top: 4937px;
+  left: 578px;
+}
+
+.frame .bee-gees-saturday-2 {
+  position: absolute;
+  top: 5186px;
+  left: 564px;
+  font-family: "Pretendard-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .rectangle-39 {
+  position: absolute;
+  width: 367px;
+  height: 390px;
+  top: 4915px;
+  left: 932px;
+}
+
+.frame .zkwzbr {
+  position: absolute;
+  width: 301px;
+  height: 228px;
+  top: 4943px;
+  left: 961px;
+}
+
+.frame .the-clash-london-2 {
+  position: absolute;
+  top: 5197px;
+  left: 988px;
+  font-family: "Pretendard-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .overlap {
+  position: absolute;
+  width: 1920px;
+  height: 278px;
+  top: 13030px;
+  left: 0;
+  background-image: url(./img/rectangle-78.svg);
+  background-size: 100% 100%;
+}
+
+.frame .thank-you {
+  position: absolute;
+  width: 654px;
+  height: 116px;
+  top: 90px;
+  left: 168px;
+}
+
+.frame .text-wrapper-5 {
+  position: absolute;
+  width: 158px;
+  top: 12727px;
+  left: 1661px;
+  font-family: "Pretendard-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .text-wrapper-6 {
+  position: absolute;
+  width: 158px;
+  top: 12792px;
+  left: 1661px;
+  font-family: "Pretendard-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .text-wrapper-7 {
+  position: absolute;
+  width: 158px;
+  top: 12855px;
+  left: 1661px;
+  font-family: "Pretendard-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .text-wrapper-8 {
+  position: absolute;
+  width: 158px;
+  top: 12920px;
+  left: 1661px;
+  font-family: "Pretendard-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .rectangle-40 {
+  position: absolute;
+  width: 33px;
+  height: 33px;
+  top: 12728px;
+  left: 1592px;
+}
+
+.frame .rectangle-41 {
+  position: absolute;
+  width: 33px;
+  height: 32px;
+  top: 12792px;
+  left: 1592px;
+}
+
+.frame .rectangle-42 {
+  position: absolute;
+  width: 33px;
+  height: 32px;
+  top: 12856px;
+  left: 1592px;
+}
+
+.frame .rectangle-43 {
+  position: absolute;
+  width: 33px;
+  height: 33px;
+  top: 12919px;
+  left: 1592px;
+}
+
+.frame .vector-38 {
+  position: absolute;
+  width: 35px;
+  height: 54px;
+  top: 12578px;
+  left: 1295px;
+}
+
+.frame .vector-39 {
+  position: absolute;
+  width: 37px;
+  height: 53px;
+  top: 12579px;
+  left: 1252px;
+}
+
+.frame .vector-40 {
+  position: absolute;
+  width: 64px;
+  height: 110px;
+  top: 12550px;
+  left: 165px;
+}
+
+.frame .x {
+  position: absolute;
+  width: 113px;
+  height: 85px;
+  top: 12562px;
+  left: 332px;
+}
+
+.frame .vector-41 {
+  position: absolute;
+  width: 163px;
+  height: 42px;
+  top: 12584px;
+  left: 553px;
+}
+
+.frame .rectangle-44 {
+  position: absolute;
+  width: 278px;
+  height: 59px;
+  top: 12575px;
+  left: 854px;
+}
+
+.frame .rectangle-45 {
+  position: absolute;
+  width: 42px;
+  height: 59px;
+  top: 12575px;
+  left: 1132px;
+}
+
+.frame .rectangle-46 {
+  position: absolute;
+  width: 75px;
+  height: 59px;
+  top: 12575px;
+  left: 779px;
+}
+
+.frame .vector-42 {
+  position: absolute;
+  width: 33px;
+  height: 51px;
+  top: 12739px;
+  left: 1245px;
+}
+
+.frame .vector-43 {
+  position: absolute;
+  width: 35px;
+  height: 53px;
+  top: 12738px;
+  left: 1203px;
+}
+
+.frame .vector-44 {
+  position: absolute;
+  width: 64px;
+  height: 110px;
+  top: 12709px;
+  left: 166px;
+}
+
+.frame .w-fx {
+  position: absolute;
+  width: 113px;
+  height: 85px;
+  top: 12722px;
+  left: 332px;
+}
+
+.frame .vector-45 {
+  position: absolute;
+  width: 241px;
+  height: 42px;
+  top: 12743px;
+  left: 514px;
+}
+
+.frame .rectangle-47 {
+  position: absolute;
+  width: 282px;
+  height: 60px;
+  top: 12734px;
+  left: 779px;
+}
+
+.frame .rectangle-48 {
+  position: absolute;
+  width: 69px;
+  height: 60px;
+  top: 12734px;
+  left: 1062px;
+}
+
+.frame .vector-46 {
+  position: absolute;
+  width: 35px;
+  height: 54px;
+  top: 12896px;
+  left: 1156px;
+}
+
+.frame .vector-47 {
+  position: absolute;
+  width: 35px;
+  height: 53px;
+  top: 12896px;
+  left: 1115px;
+}
+
+.frame .vector-48 {
+  position: absolute;
+  width: 64px;
+  height: 110px;
+  top: 12868px;
+  left: 164px;
+}
+
+.frame .vector-49 {
+  position: absolute;
+  width: 150px;
+  height: 41px;
+  top: 12902px;
+  left: 557px;
+}
+
+.frame .rectangle-49 {
+  position: absolute;
+  width: 102px;
+  height: 59px;
+  top: 12893px;
+  left: 778px;
+}
+
+.frame .rectangle-50 {
+  position: absolute;
+  width: 154px;
+  height: 59px;
+  top: 12893px;
+  left: 880px;
+}
+
+.frame .ellipse {
+  position: absolute;
+  width: 575px;
+  height: 575px;
+  top: 11524px;
+  left: -5267px;
+}
+
+.frame .rectangle-51 {
+  position: absolute;
+  width: 339px;
+  height: 362px;
+  top: 2879px;
+  left: -5417px;
+}
+
+.frame .rectangle-52 {
+  position: absolute;
+  width: 339px;
+  height: 362px;
+  top: 3577px;
+  left: -5417px;
+}
+
+.frame .rectangle-53 {
+  position: absolute;
+  width: 339px;
+  height: 362px;
+  top: 4038px;
+  left: -5417px;
+}
+
+.frame .image-6 {
+  width: 138px;
+  height: 142px;
+  top: 10209px;
+  left: -10566px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.frame .layer {
+  position: absolute;
+  width: 152px;
+  height: 93px;
+  top: 10247px;
+  left: -10296px;
+}
+
+.frame .layer-2 {
+  position: absolute;
+  width: 142px;
+  height: 139px;
+  top: 10222px;
+  left: -10012px;
+}
+
+.frame .layer-3 {
+  position: absolute;
+  width: 89px;
+  height: 139px;
+  top: 10223px;
+  left: -9738px;
+}
+
+.frame .layer-4 {
+  position: absolute;
+  width: 141px;
+  height: 137px;
+  top: 10224px;
+  left: -9517px;
+}
+
+.frame .image-7 {
+  width: 472px;
+  height: 483px;
+  top: 1825px;
+  left: -5223px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.frame .overlap-2 {
+  position: absolute;
+  width: 339px;
+  height: 362px;
+  top: 8409px;
+  left: -5060px;
+  background-image: url(./img/rectangle-70-2.svg);
+  background-size: 100% 100%;
+}
+
+.frame .vfibx {
+  position: absolute;
+  width: 304px;
+  height: 228px;
+  top: 13px;
+  left: 18px;
+}
+
+.frame .daft-punk-discovery-2 {
+  position: absolute;
+  width: 196px;
+  height: 58px;
+  top: 257px;
+  left: 72px;
+}
+
+.frame .overlap-3 {
+  position: absolute;
+  width: 339px;
+  height: 362px;
+  top: 8409px;
+  left: -4657px;
+  background-image: url(./img/rectangle-71-3.svg);
+  background-size: 100% 100%;
+}
+
+.frame .w-fx-nr {
+  position: absolute;
+  width: 307px;
+  height: 229px;
+  top: 13px;
+  left: 17px;
+}
+
+.frame .eminem-the-eminem-2 {
+  position: absolute;
+  width: 294px;
+  height: 57px;
+  top: 258px;
+  left: 24px;
+}
+
+.frame .image-8 {
+  width: 1024px;
+  height: 1024px;
+  top: 9077px;
+  left: -5945px;
+  position: absolute;
+  object-fit: cover;
+}
